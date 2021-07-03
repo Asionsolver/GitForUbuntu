@@ -1,5 +1,6 @@
 #include<stdio.h>
 
 int main(){
-    printf("hhhhh");
+    printf("Hello World\n");
+    printf("Working Git&Github.\n");
 }
