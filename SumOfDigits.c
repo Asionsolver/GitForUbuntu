@@ -1,7 +1,7 @@
 /*
 Code Explain:
 n = 124
-
+{
 while(124>o)
 {
     m = 124 % 10
@@ -17,7 +17,7 @@ while(124>o)
     m = 12 % 10
       = 2
 }
-n = 124
+n = 12
 while(12>o)
 {
     sum = sum + m
@@ -42,7 +42,7 @@ while(1>o)
 }
 n = 0
 while(0>0) conditon false so can not go while loop
-
+}
 */
 
 #include<stdio.h>  
