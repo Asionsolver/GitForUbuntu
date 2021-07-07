@@ -34,6 +34,6 @@ int main(){
     printf("Enter Number Of N : ");
     scanf("%d", &n);
 
-    printf("%dnt term Fibonacci Series number: %d\n",n,fib(n));
+    printf("%dnt term Fibonacci number: %d\n",n,fib(n));
 
 }
