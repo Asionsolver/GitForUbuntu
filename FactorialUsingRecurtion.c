@@ -8,7 +8,7 @@ long factorial(int n)
     return(n * factorial(n-1));  
 }  
    
-void main()  
+int main()  
 {  
   int number;  
   long fact;  
